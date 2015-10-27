@@ -10,7 +10,7 @@
     <meta name="author" content="">
     <link href="css/style.css?1.0.0" rel="stylesheet">
 
-    <title>Heroic Features - Start Bootstrap Template</title>
+    <title>Reserva Tu Mesa</title>
 
     <!-- Bootstrap Core CSS -->
     <link href="css/bootstrap.min.css" rel="stylesheet">
