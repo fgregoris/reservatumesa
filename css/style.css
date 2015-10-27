@@ -13,10 +13,13 @@ body{
     background-repeat: no-repeat;
 }
 .container{
-    max-width: 1200px;
-    
+    max-width: 1200px;    
 }
 /*-----------------------FILA 1 ----------------------------------------------*/
+.text-center{
+    background-color:red;
+}
+
 /*----CONTADOR----*/
 .count{
     max-width: 340px;
